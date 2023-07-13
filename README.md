@@ -88,10 +88,6 @@ This tiny script allows you to use the gtk-emacs-key-theme like bindings on Wind
 <td>delete chars from cursor to beginning of line</td>
 </tr>
 <tr>
-<td>Ctrl+R</td>
-<td>find</td>
-</tr>
-<tr>
 <td>Ctrl+\</td>
 <td>select all</td>
 </tr>

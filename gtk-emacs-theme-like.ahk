@@ -269,17 +269,6 @@ is_target()
   Return
 
 ;
-; <ctrl>r
-; find
-;
-^r::
-  If is_target()
-    Send %A_ThisHotkey%
-  Else
-    Send ^f
-  Return
-
-;
 ; <ctrl>\
 ; select all
 ;
