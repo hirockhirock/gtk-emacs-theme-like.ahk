@@ -80,24 +80,12 @@ This tiny script allows you to use the gtk-emacs-key-theme like bindings on Wind
 <td>move cursor one word forward selecting chars</td>
 </tr>
 <tr>
-<td>Ctrl+W</td>
-<td>cut</td>
-</tr>
-<tr>
-<td>Ctrl+Y</td>
-<td>paste</td>
-</tr>
-<tr>
 <td>Ctrl+K</td>
 <td>delete chars from cursor to end of line</td>
 </tr>
 <tr>
 <td>Ctrl+U</td>
 <td>delete chars from cursor to beginning of line</td>
-</tr>
-<tr>
-<td>Ctrl+M</td>
-<td>new line(enter)</td>
 </tr>
 <tr>
 <td>Ctrl+R</td>
