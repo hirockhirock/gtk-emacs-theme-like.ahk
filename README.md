@@ -36,10 +36,6 @@ This tiny script allows you to use the gtk-emacs-key-theme like bindings on Wind
 <td>move cursor down</td>
 </tr>
 <tr>
-<td>Shift+Ctrl+N</td>
-<td>move cursor down selecting chars</td>
-</tr>
-<tr>
 <td>Ctrl+D</td>
 <td>delete following char</td>
 </tr>

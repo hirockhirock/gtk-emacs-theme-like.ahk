@@ -118,17 +118,6 @@ is_target()
   Return
 
 ;
-; <shift><ctrl>n
-; move cursor down selecting chars
-;
-+^n::
-  If is_target()
-    Send %A_ThisHotkey%
-  Else
-    Send +{Down}
-  Return
-
-;
 ; <ctrl>d
 ; delete following char
 ;
