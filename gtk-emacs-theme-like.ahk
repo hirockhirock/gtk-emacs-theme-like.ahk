@@ -28,6 +28,8 @@ is_target()
     return true
   if WinActive("ahk_class mintty") ; WSL
     return true
+  if WinActive("ahk_exe WindowsTerminal.exe") ; Windows Terminal
+    return true
 ;  if WinActive("ahk_class SWT_Window0") ; Eclipse
 ;    return true
 ;   if WinActive("ahk_class Xming X")
